@@ -15,10 +15,9 @@ Can't think of any use case except mine which is pretty striaght forward, I am t
 I write the content of useless letters like this, but a thousand times a day, pretty boring life :(
 
 ### Video Tutorial for Dummies:
-
-### How to run:
 https://github.com/user-attachments/assets/86708f44-8a20-4957-b1d3-4b16646ec584
 
+### How to run:
 
 ```py snipper.py```
 
