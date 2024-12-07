@@ -16,8 +16,10 @@ I write the content of useless letters like this, but a thousand times a day, pr
 
 ### Video Tutorial for Dummies:
 
-
 ### How to run:
+https://github.com/user-attachments/assets/86708f44-8a20-4957-b1d3-4b16646ec584
+
+
 ```py snipper.py```
 
 ### How to build from source:
