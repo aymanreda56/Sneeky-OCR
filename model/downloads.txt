@@ -1,0 +1,4 @@
+Download those two models and put them in this directory:
+
+1- CRAFT model for detection:		https://github.com/JaidedAI/EasyOCR/releases/download/pre-v1.1.6/craft_mlt_25k.zip
+2- ARABIC model for classification:	https://github.com/JaidedAI/EasyOCR/releases/download/pre-v1.1.6/arabic.zip

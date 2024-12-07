@@ -1,0 +1,5 @@
+model/arabic.pth
+model/craft_mlt_25k.pth
+model/english_g2.pth
+build/
+myenv/
